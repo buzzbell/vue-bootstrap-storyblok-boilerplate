@@ -8,6 +8,7 @@
   export default {
     data () {
       return {
+        msg: 'test test test',
         story: {
           content: {
             body: []
